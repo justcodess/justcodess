@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=whit)](https://www.instagram.com/zeynep.deler) 
+[![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=whit)](https://www.github.com/justcodess)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynep-deler-2a297a21a )
+
 <!--
 **justcodess/justcodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
