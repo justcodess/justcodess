@@ -1,7 +1,7 @@
 ### Hi there 👋
 Ben Zeynep Deler 
 
-İzzet Baysal Üniversitesi 2.sınıf öğrencisiyim. Kendimi yazılımda geliştirmeye çalııyorum. Bu da benim github profilim.
+İzzet Baysal Üniversitesi 2.sınıf öğrencisiyim. Kendimi yazılımda geliştirmeye çalııyorum. Burası da benim github profilim.
 
 Bana ulaşmak İçin;
 
