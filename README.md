@@ -1,10 +1,11 @@
 ### Hi there 👋
-Ben Zeynep Deler
+Ben Zeynep Deler 
+
 İzzet Baysal Üniversitesi 2.sınıf öğrencisiyim. Kendimi yazılımda geliştirmeye çalııyorum. Bu da benim github profilim.
 
 Bana ulaşmak İçin;
+
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=whit)](https://www.instagram.com/zeynep.deler) 
-[![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=whit)](https://www.github.com/justcodess)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynep-deler-2a297a21a )
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeynepdeler@gmail.com)
 
