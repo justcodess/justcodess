@@ -3,10 +3,6 @@ Ben Zeynep
 
 İzzet Baysal Üniversitesi 3.sınıf öğrencisiyim. Kendimi web alanında geliştirmeye çalışıyorum. Burası da benim github profilim.
 
-You can find Languages and Tools in this Account and much more!
-[![html][(https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=whit)](https://icon-library.com/images/html5-icon/html5-icon-13.jpg)]
-[![css][https://icon-library.com/images/css3-icon/css3-icon-28.jpg]
-[![js][https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2UdEqkI_P_0552ZAz-JJDWIwGRYEde1EzqVF3759ZvZCCM-0&s]
 
 
 Bana ulaşmak İçin;
