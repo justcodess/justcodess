@@ -8,13 +8,8 @@
  <br><br>
  
    🌱 I’m currently learning Javascript
-  
-   🤔 I’m looking for help with node.js
    
-   😄 Codelover
-  
-   📫 How to reach me: contact section
-
+   😄 I'm playing  with codes
 <br><br>
 > ### Contact me;
 
@@ -25,6 +20,8 @@
 
 
 <br><br>
+
+
 > ### Languages and Tools: 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -34,15 +31,17 @@
 <img align="left" alt="c" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /> 
 
+<br>
+
 ![GitHub Contribution Graph (Dark)](https://github.com/justcodess/justcodess/blob/output/github-contribution-grid-snake.svg)
 
 <br><hr>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=justcodess&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=justcodess&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<hr>
+<hr>
 
 
-[![](https://visitcount.itsvg.in/api?id=justcodess&icon=5&color=4)](https://visitcount.itsvg.in)
+
 
 <!--
 
@@ -55,7 +54,7 @@
 **justcodess/justcodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=justcodess&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
