@@ -7,7 +7,7 @@
  ✨✨✨ Here is my github profile :))✨✨✨ 
  <br><br>
  
-   🌱 I’m currently learning Javascript
+   🌱 I’m currently learning React
    
    😄 I'm playing  with codes
 <br><br>
@@ -35,10 +35,8 @@
 
 ![GitHub Contribution Graph (Dark)](https://github.com/justcodess/justcodess/blob/output/github-contribution-grid-snake.svg)
 
-<br><hr>
+<br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=justcodess&theme=dark&hide_border=false)
-<hr>
 
 
 
@@ -63,4 +61,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<hr>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=justcodess&theme=dark&hide_border=false)
+<hr>
 -->
