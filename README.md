@@ -1,13 +1,13 @@
 ## Hi there 👋 I'm Zeynep  
 
 
- I am a student in University of Izzet Baysal . I am trying to improve myself in the web development.
+ I graduated in University of Izzet Baysal . I am trying to improve myself in the web development.
 
  
  ✨✨✨ Here is my github profile :))✨✨✨ 
  <br><br>
  
-   🌱 I’m currently learning React
+   🌱 I’m currently working on creating layered architecture backend applications using .NET Core, Entity Framework Core, and MediatR.
    
    😄 I'm playing  with codes
 <br><br>
